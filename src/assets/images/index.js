@@ -8,3 +8,4 @@ export { default as Video } from './video.png';
 export { default as Avatar } from './avatar.png';
 export { default as Plus } from './plus.png';
 export { default as Search } from './search.png';
+export { default as Info } from './info.png';
