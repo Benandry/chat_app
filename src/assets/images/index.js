@@ -12,3 +12,6 @@ export { default as Info } from './info.png';
 export { default as Emoji } from './emoji.png';
 export { default as Image } from './img.png';
 export { default as Camera } from './camera.png';
+export { default as ArrowUp } from './arrowUp.png';
+export { default as ArrowDown } from './arrowDown.png';
+export { default as Download } from './download.png';
