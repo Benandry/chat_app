@@ -9,3 +9,6 @@ export { default as Avatar } from './avatar.png';
 export { default as Plus } from './plus.png';
 export { default as Search } from './search.png';
 export { default as Info } from './info.png';
+export { default as Emoji } from './emoji.png';
+export { default as Image } from './img.png';
+export { default as Camera } from './camera.png';
