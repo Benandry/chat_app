@@ -1,11 +1,15 @@
+import { Chat, Detail, List } from "./components"
 
 function App() {
 
   return (
     <div className="container">
-     <h2>App messenger </h2>
+      <List />
+      <Chat />
+      <Detail />
     </div>
   )
 }
 
 export default App
+ 
