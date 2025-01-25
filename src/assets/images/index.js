@@ -6,3 +6,5 @@ export { default as More } from './more.png';
 export { default as Phone } from './phone.png';
 export { default as Video } from './video.png';
 export { default as Avatar } from './avatar.png';
+export { default as Plus } from './plus.png';
+export { default as Search } from './search.png';
