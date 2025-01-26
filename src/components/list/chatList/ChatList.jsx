@@ -2,6 +2,7 @@ import { useState } from 'react'
 import { Minus, Plus, Search } from '../../../assets/images'
 import './chatList.css'
 import Items from '../items/Items';
+import AddUser from './addUser/AddUser';
 
 const ChatList = () => {
 
@@ -22,6 +23,7 @@ const ChatList = () => {
        <Items />
        <Items />
        <Items />
+       {addMode && <AddUser />}
     </div>
   )
 }
